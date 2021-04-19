@@ -24,7 +24,7 @@ namespace ClassReview
                 }
             }
         }
-        void Sum1To50IfDivisibleBy5Or7() //numbers 1-50 evenly divisible by 5 or 7
+        void Sum1To50DivisBy5Or7() //numbers 1-50 evenly divisible by 5 or 7
         {
             int sum = 0;
             for (int idx = 1; idx <= 50; idx++)
